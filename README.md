@@ -1,4 +1,4 @@
 # Hi! Welcome to my profile. 
 
 ## About Me
-Hi, my name is Christopher. I am currently doing a web dev bootcamp with neue fische in Germany and I am exciting to learn how to code. 
+Hi, my name is Christopher. I am a UX/UI designer from Hamburg, Germany and I just started a web dev bootcamp with neue fische to learn how to code. 
