@@ -14,4 +14,4 @@ Jupp, that's me.
 - Science Fiction
 - Coding
 
-https://giphy.com/embed/Dh5q0sShxgp13DwrvG
+https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif
