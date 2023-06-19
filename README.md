@@ -8,11 +8,11 @@ Hi, my name is Christopher. I am a UX/UI designer from Hamburg, Germany and I ju
 Jupp, that's me.
 
 ## My Interests
-- Digital Communication
-- UX/UI Design
-- Gaming
-- History
-- Science Fiction
-- Coding
+- 📱 Digital Communication
+- 🖼 UX/UI Design
+- 🎮 Gaming
+- 🏰 History
+- 🛸 Science Fiction
+- 💻 Coding
 
-![giphy](https://github.com/CTheus/CTheus/assets/132352228/ed30151a-ac0b-4526-8d9a-4f7b04dbbc6c)
+![giphy](https://github.com/CTheus/CTheus/assets/132352228/5e656f81-a664-47a9-aed9-13da8ee67304)
