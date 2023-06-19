@@ -15,4 +15,4 @@ Jupp, that's me.
 - 🛸 Science Fiction
 - 💻 Coding
 
-![giphy](https://github.com/CTheus/CTheus/assets/132352228/5e656f81-a664-47a9-aed9-13da8ee67304)
+<p align="center"><img src="https://github.com/CTheus/CTheus/assets/132352228/5e656f81-a664-47a9-aed9-13da8ee67304"></p>
