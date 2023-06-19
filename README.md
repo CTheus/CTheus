@@ -12,3 +12,4 @@ Jupp, that's me.
 - Gaming
 - History
 - Science Fiction
+- Coding
